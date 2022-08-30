@@ -8,12 +8,9 @@ Work on what you like the most and you, as well as the person who hires you, wil
 </div>
 
 
-<div id="badges" align='center'>
+<div align='center' float='left'>
   <a href="https://discord.gg/kCSwjBtFRB">
     <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=Discord&logoColor=white" alt="Discord Badge"/>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
